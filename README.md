@@ -56,8 +56,8 @@ Before diving into the code, let's understand some key AI concepts used in this 
 
 1. **Clone the project** (or download and extract the ZIP):
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/CarlosMeGu/RAG-Document-Search-GPT-Qdrant-
+   cd RAG-Document-Search-GPT-Qdrant-
    ```
 
 2. **Set up a virtual environment** (keeps your project dependencies organized):
