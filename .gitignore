@@ -1,0 +1,10 @@
+# Ignore files with a certain extension
+*.env
+*.env.*
+servercopy.py
+/.idea
+__pycache__/
+security/__pycache__/
+*/__pycache__/
+/.venv
+/temp_files
